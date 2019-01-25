@@ -1,0 +1,1 @@
+Here we can simply write to the filePrevious content has been overwritten by this one!To append info, use the append method
